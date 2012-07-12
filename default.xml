@@ -60,6 +60,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
+  <project path="external/busybox" name="BAKED/external_busybox" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
   <project path="external/chromium" name="platform/external/chromium" />
@@ -221,11 +222,12 @@
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
+  <project path="packages/apps/AppWidgetPicker" name="BAKED/packages_apps_AppWidgetPicker" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
+  <project path="packages/apps/Calendar" name="BAKED/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
@@ -307,6 +309,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
+  <project path="system/su" name="BAKED/system_su" />
   <project path="system/vold" name="platform/system/vold" />
 
   <project path="vendor/baked" name="BAKED/vendor_baked" />
@@ -315,12 +318,6 @@
   <project path="vendor/moto/wingray" name="BAKED/vendor_moto_wingray" />
   <project path="vendor/samsung" name="BAKED/vendor_samsung" />
 
-  <project path="packages/apps/Superuser" name="travp624/packages_apps_Superuser" remote="gh" revision="master" />
-  <project path="packages/apps/BlackICEControl" name="travp624/packages_apps_BlackICEControl" remote="gh" revision="master" />
-  <project path="packages/apps/Trebuchet" name="travp624/packages_apps_Trebuchet" remote="gh" revision="master" />
-  <project path="packages/apps/AppWidgetPicker" name="travp624/packages_apps_AppWidgetPicker" remote="gh" revision="master" />
-  <project path="packages/apps/Apollo" name="travp624/packages_apps_Apollo" remote="gh" revision="master" />
-
-  <project path="platform_manifest" name="travp624/platform_manifest" remote="gh" revision="master" />
+  <project path="platform_manifest" name="BAKED/platform_manifest" />
 
 </manifest>
