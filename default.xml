@@ -25,7 +25,7 @@
   <project path="bionic" name="bionic" remote="BAKED" revision="jb" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="BAKED" revision="jb" />
+  <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform_dalvik" remote="BAKED" revision="jb" />
   <project path="development" name="platform_development" remote="BAKED" revision="jb" />
