@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-   <remote  name="BAKED"
+   <remote  name="baked"
             fetch="git://github.com/TeamBAKED/" />
 
    <remote  name="cm"
@@ -18,14 +18,14 @@
             remote="aosp"
             sync-j="4" />
 
-  <project path="build" name="android_build" remote="BAKED" revision="jb" >
+  <project path="build" name="android_build" remote="baked" revision="jb" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="bionic" remote="BAKED" revision="jb" />
+  <project path="bionic" name="bionic" remote="baked" revision="jb" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="baked" revision="jb" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
@@ -36,14 +36,14 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/moto/common" name="device_moto_common" remote="BAKED" revision="jb" />
-  <project path="device/moto/stingray" name="device_moto_stingray" remote="BAKED" revision="jb" />
-  <project path="device/moto/wingray" name="device_moto_wingray" remote="BAKED" revision="jb" />
+  <project path="device/moto/common" name="device_moto_common" remote="baked" revision="jb" />
+  <project path="device/moto/stingray" name="device_moto_stingray" remote="baked" revision="jb" />
+  <project path="device/moto/wingray" name="device_moto_wingray" remote="baked" revision="jb" />
   <project path="device/sample" name="device/sample" />
-  <project path="device/samsung/maguro" name="device_samsung_maguro" remote="BAKED" revision="jb" />
-  <project path="device/samsung/toro" name="device_samsung_toro" remote="BAKED" revision="jb" />
-  <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="BAKED" revision="jb" />
-  <project path="device/samsung/tuna" name="device_samsung_tuna" remote="BAKED" revision="jb" />
+  <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
+  <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
+  <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
+  <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="android_external_aac" remote="cm" revision="jellybean" />
@@ -60,7 +60,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  <project path="external/busybox" name="external_busybox" remote="BAKED" revision="jellybean" />
+  <project path="external/busybox" name="external_busybox" remote="baked" revision="jellybean" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
   <project path="external/chromium" name="platform/external/chromium" />
@@ -188,20 +188,20 @@
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
-  <project path="external/yaffs2" name="external_yaffs2" remote="BAKED" revision="jb" />
+  <project path="external/yaffs2" name="external_yaffs2" remote="baked" revision="jb" />
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" />
-  <project path="frameworks/base" name="frameworks_base" remote="BAKED" revision="jb" />
+  <project path="frameworks/base" name="frameworks_base" remote="baked" revision="jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
-  <project path="frameworks/ex" name="frameworks_ex" remote="BAKED" revision="jb" />
+  <project path="frameworks/ex" name="frameworks_ex" remote="baked" revision="jb" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/native" name="platform/frameworks/native" />
-  <project path="frameworks/opt" name="frameworks_opt" remote="BAKED" revision="jb" />
+  <project path="frameworks/opt" name="frameworks_opt" remote="baked" revision="jb" />
   <project path="frameworks/rs" name="platform/frameworks/rs" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
@@ -222,18 +222,18 @@
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/AppWidgetPicker" name="packages_apps_AppWidgetPicker" remote="BAKED" revision="jb" />
+  <project path="packages/apps/AppWidgetPicker" name="packages_apps_AppWidgetPicker" remote="baked" revision="jb" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
-  <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="BAKED" revision="jb" />
-  <project path="packages/apps/Camera" name="packages_apps_Camera" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="baked" revision="jb" />
+  <project path="packages/apps/Camera" name="packages_apps_Camera" remote="baked" revision="jb" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="baked" revision="jb" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
-  <project path="packages/apps/Email" name="packages_apps_Email" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Email" name="packages_apps_Email" remote="baked" revision="jb" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
@@ -241,16 +241,16 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Mms" name="packages_apps_Mms" remote="baked" revision="jb" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Phone" name="packages_apps_Phone" remote="baked" revision="jb" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="BAKED" revision="jb" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="baked" revision="jb" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
@@ -304,20 +304,20 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="system_core" remote="BAKED" revision="jb" />
-  <project path="system/extras" name="system_extras" remote="BAKED" revision="jb" />
+  <project path="system/core" name="system_core" remote="baked" revision="jb" />
+  <project path="system/extras" name="system_extras" remote="baked" revision="jb" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/su" name="system_su" remote="BAKED" revision="jb" />
+  <project path="system/su" name="system_su" remote="baked" revision="jb" />
   <project path="system/vold" name="platform/system/vold" />
 
-  <project path="vendor/baked" name="vendor_baked" remote="BAKED" revision="jb" />
-  <project path="vendor/baked/bot" name="pseudo_buildbot" remote="BAKED" revision="jb" />
-  <project path="vendor/moto/stingray" name="vendor_moto_stingray" remote="BAKED" revision="jb" />
-  <project path="vendor/moto/wingray" name="vendor_moto_wingray" remote="BAKED" revision="jb" />
-  <project path="vendor/samsung" name="vendor_samsung" remote="BAKED" revision="jb" />
+  <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb" />
+  <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb" />
+  <project path="vendor/moto/stingray" name="vendor_moto_stingray" remote="baked" revision="jb" />
+  <project path="vendor/moto/wingray" name="vendor_moto_wingray" remote="baked" revision="jb" />
+  <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb" />
 
-  <project path="platform_manifest" name="platform_manifest" remote="BAKED" revision="jb" />
+  <project path="platform_manifest" name="platform_manifest" remote="baked" revision="jb" />
 
 </manifest>
