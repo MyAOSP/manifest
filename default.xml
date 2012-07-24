@@ -40,6 +40,8 @@
   <project path="device/moto/stingray" name="device_moto_stingray" remote="baked" revision="jb" />
   <project path="device/moto/wingray" name="device_moto_wingray" remote="baked" revision="jb" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/samsung/crespo" name="device_samsung_crespo" remote="baked" revision="jb" />
+  <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
