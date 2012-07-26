@@ -46,6 +46,7 @@
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
+  <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
   <project path="device/samsung/torospr" name="device_samsung_torospr" remote="baked" revision="jb" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
