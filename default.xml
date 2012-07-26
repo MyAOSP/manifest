@@ -30,6 +30,7 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/asus/grouper" name="device_asus_grouper" remote="baked" revision="jb" />
+  <project path="device/asus/tf300t" name="device_asus_tf300t" remote="baked" revision="jb" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
@@ -329,6 +330,7 @@
   <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb" />
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb" />
   <project path="vendor/asus/grouper" name="vendor_asus_grouper" remote="baked" revision="jb" />
+  <project path="vendor/asus/tf300t" name="vendor_asus_tf300t" remote="baked" revision="jb" />
   <project path="vendor/moto/stingray" name="vendor_moto_stingray" remote="baked" revision="jb" />
   <project path="vendor/moto/wingray" name="vendor_moto_wingray" remote="baked" revision="jb" />
   <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb" />
