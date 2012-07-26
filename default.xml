@@ -29,7 +29,7 @@
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
-  <project path="device/asus/grouper" name="device/asus/grouper" />
+  <project path="device/asus/grouper" name="device_asus_grouper" remote="baked" revision="jb" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
@@ -42,9 +42,11 @@
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="device_samsung_crespo" remote="baked" revision="jb" />
   <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" remote="baked" revision="jb" />
+  <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb" />
+  <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
-  <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
+  <project path="device/samsung/torospr" name="device_samsung_torospr" remote="baked" revision="jb" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -137,6 +139,7 @@
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
+  <project path="external/lzo" name="android_external_lzo" remote="cm" revision="jellybean" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
@@ -153,6 +156,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="platform/external/openssh" />
   <project path="external/openssl" name="platform/external/openssl" />
+  <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="jellybean" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
@@ -266,6 +270,7 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="baked" revision="jb" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
@@ -324,6 +329,7 @@
 
   <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb" />
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb" />
+  <project path="vendor/asus/grouper" name="vendor_asus_grouper" remote="baked" revision="jb" />
   <project path="vendor/moto/stingray" name="vendor_moto_stingray" remote="baked" revision="jb" />
   <project path="vendor/moto/wingray" name="vendor_moto_wingray" remote="baked" revision="jb" />
   <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb" />
