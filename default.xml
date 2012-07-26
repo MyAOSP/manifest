@@ -241,6 +241,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="baked" revision="jb" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="baked" revision="jb" />
+  <project path="packages/apps/DSPManager" name="packages_apps_DSPManager" remote="baked" revision="jb" />
   <project path="packages/apps/Email" name="packages_apps_Email" remote="baked" revision="jb" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
