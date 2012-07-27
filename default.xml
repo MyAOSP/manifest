@@ -335,6 +335,11 @@
   <project path="vendor/moto/stingray" name="vendor_moto_stingray" remote="baked" revision="jb" />
   <project path="vendor/moto/wingray" name="vendor_moto_wingray" remote="baked" revision="jb" />
   <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="vendor_tmobile_apps_ThemeChooser" remote="bake" revision="jb"/>
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="vendor_tmobile_libs_com.tmobile.themes" remote="baked" revision="jb" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="travp624/android_vendor_tmobile_providers_ThemeManager" remote="baked" revision="jb" />
+  <project path="vendor/tmobile/products/themes" name="vendor_tmobile_products_themes" remote="baked" revision="jb" />
+  <project path="vendor/tmobile/themes/BAKEDOrange" name="vendor_tmobile_themes_BAKEDOrange" remote="baked" revision="jb" />
 
   <project path="platform_manifest" name="platform_manifest" remote="baked" revision="jb" />
 
