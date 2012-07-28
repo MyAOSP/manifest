@@ -23,9 +23,9 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="bionic" remote="baked" revision="jb" />
-  <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
-  <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/bootloader/legacy" name="bootable_bootloader_legacy" remote="baked" revision="jb" />
+  <project path="bootable/diskinstaller" name="bootable_diskinstaller" remote="baked" revision="jb" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="baked" revision="jb" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
@@ -219,7 +219,7 @@
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="gdk" name="platform/gdk" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
+  <project path="hardware/broadcom/wlan" name="hardware_broadcom_wlan" remote="baked" revision="jb" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="baked" revision="jb" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="baked" revision="jb" />
