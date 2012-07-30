@@ -232,6 +232,7 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/media" name="hardware_qcom_media" remote="baked" revision="jb" />
   <project path="hardware/ril" name="platform/hardware/ril" />
+  <project path="hardware/samsung" name="hardware_samsung" remote="baked" revision="jb" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
