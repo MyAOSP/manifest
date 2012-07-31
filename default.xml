@@ -330,7 +330,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/su" name="system_su" remote="baked" revision="jb" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/vold" name="system_vold" remote="baked" revision="jb" />
 
   <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb" />
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb" />
