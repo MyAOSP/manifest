@@ -338,7 +338,7 @@
   <project path="vendor/asus/tf300t" name="vendor_asus_tf300t" remote="baked" revision="jb" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="baked" revision="jb" />
   <project path="vendor/moto" name="vendor_moto" remote="baked" revision="jb" />
-  <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" revision="jb"
+  <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" revision="jb" />
   <project path="vendor/samsung" name="vendor_samsung" remote="baked" revision="jb" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="vendor_tmobile_apps_ThemeChooser" remote="baked" revision="jb"/>
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="vendor_tmobile_libs_com.tmobile.themes" remote="baked" revision="jb" />
