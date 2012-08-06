@@ -18,7 +18,7 @@
             remote="aosp"
             sync-j="4" />
 
-  <project path="build" name="android_build" remote="baked" revision="jb" >
+  <project path="build" name="build" remote="baked" revision="jb" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
@@ -343,8 +343,6 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="vendor_tmobile_providers_ThemeManager" remote="baked" revision="jb" />
   <project path="vendor/tmobile/products/themes" name="vendor_tmobile_products_themes" remote="baked" revision="jb" />
   <project path="vendor/tmobile/themes/BAKEDOrange" name="vendor_tmobile_themes_BAKEDOrange" remote="baked" revision="jb" />
-
-  <project path="platform_manifest" name="platform_manifest" remote="baked" revision="jb" />
 
   <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="jellybean" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="jellybean" />
