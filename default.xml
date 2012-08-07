@@ -322,7 +322,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
-  <project path="sdk" name="platform/sdk" />
+  <project path="sdk" name="sdk" remote="baked" revision="jb" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="system_core" remote="baked" revision="jb" />
   <project path="system/extras" name="system_extras" remote="baked" revision="jb" />
