@@ -51,7 +51,7 @@
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
-  <project path="device/samsung/torospr" name="device_samsung_torospr" remote="baked" revision="jb" />
+  <project path="device/samsung/torospr" name="device_samsung_toroplus" remote="baked" revision="jb" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
