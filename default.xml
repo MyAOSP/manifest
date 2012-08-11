@@ -244,7 +244,7 @@
   <project path="packages/apps/AppWidgetPicker" name="packages_apps_AppWidgetPicker" remote="baked" revision="jb" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
-  <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
+  <project path="packages/apps/Browser" name="packages_apps_Browser" remote="baked" revision="jb" />
   <project path="packages/apps/Calculator" name="packages_apps_Calculator" remote="baked" revision="jb" />
   <project path="packages/apps/Calendar" name="packages_apps_Calendar" remote="baked" revision="jb" />
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="baked" revision="jb" />
