@@ -202,7 +202,7 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="baked" revision="jb" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="external_yaffs2" remote="baked" revision="jb" />
-  <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/zlib" name="external_zlib" remote="baked" revision="jb" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="frameworks_av" remote="baked" revision="jb" />
   <project path="frameworks/base" name="frameworks_base" remote="baked" revision="jb" />
