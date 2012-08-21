@@ -34,8 +34,8 @@
   <project path="device/asus/tf300t" name="device_asus_tf300t" remote="baked" revision="jb" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb" />
-  <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb" />
-  <project path="device/samsung/p3113" name="device_samsung_p3113" remote="baked" revision="jb" />
+  <project path="device/samsung/p3100" name="android_device_samsung_p3100" remote="baked" revision="jb" />
+  <project path="device/samsung/p3113" name="android_device_samsung_p3113" remote="baked" revision="jb" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
