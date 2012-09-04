@@ -163,9 +163,9 @@
   <project path="external/oauth" name="platform/external/oauth" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh" />
+  <project path="external/openssh" name="external_openssh" remote="baked" revision="jb"/>
   <project path="external/openssl" name="platform/external/openssl" />
-  <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="jellybean" />
+  <project path="external/openvpn" name="external_openvpn" remote="baked" revision="jb" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
