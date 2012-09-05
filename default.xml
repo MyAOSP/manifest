@@ -44,11 +44,14 @@
   <project path="device/moto/wingray" name="device_moto_wingray" remote="baked" revision="jb" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="device_samsung_aries-common" remote="baked" revision="jb" />
+  <project path="device/samsung/captivatemtd" name="device_samsung_captivatemtd" remote="baked" revision="jb" />
   <project path="device/samsung/crespo" name="device_samsung_crespo" remote="baked" revision="jb" />
   <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" remote="baked" revision="jb" />
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
+  <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="baked" revision="jb" />
   <project path="device/samsung/fascinatemtd" name="device_samsung_fascinatemtd" remote="baked" revision="jb" />
+  <project path="device/samsung/galaxymtd" name="device_samsung_galaxymtd" remote="baked" revision="jb" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb" />
@@ -57,6 +60,7 @@
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
+  <project path="device/samsung/vibrantmtd" name="device_samsung_vibrantmtd" remote="baked" revision="jb" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="external_aac" remote="baked" revision="jb" />
