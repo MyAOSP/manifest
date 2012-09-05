@@ -51,7 +51,7 @@
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
   <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="baked" revision="jb" />
   <project path="device/samsung/fascinatemtd" name="device_samsung_fascinatemtd" remote="baked" revision="jb" />
-  <project path="device/samsung/galaxymtd" name="device_samsung_galaxymtd" remote="baked" revision="jb" />
+  <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb" />
