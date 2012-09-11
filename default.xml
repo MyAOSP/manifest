@@ -50,6 +50,7 @@
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb" />
   <project path="device/samsung/d2spr" name="device_samsung_d2spr" remote="baked" revision="jb" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
+  <project path="device/samsung/d2usc" name="device_samsung_d2usc" remote="baked" revision="jb" />
   <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="baked" revision="jb" />
   <project path="device/samsung/fascinatemtd" name="device_samsung_fascinatemtd" remote="baked" revision="jb" />
   <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb" />
