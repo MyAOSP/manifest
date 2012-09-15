@@ -56,10 +56,12 @@
   <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb" />
+  <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb" />
   <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb" />
   <project path="device/samsung/p3113" name="device_samsung_p3113" remote="baked" revision="jb" />
+  <project path="device/samsung/showcasemtd" name="device_samsung_showcasemtd" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb" />
@@ -285,7 +287,7 @@
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
-  <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
+  <project path="packages/apps/Stk" name="packages_apps_Stk" remote="baked" revision="jb" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="baked" revision="jb" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
