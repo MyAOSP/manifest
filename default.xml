@@ -254,6 +254,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/AppWidgetPicker" name="packages_apps_AppWidgetPicker" remote="baked" revision="jb" />
+  <project path="packages/apps/BAKEDWalls" name="packages_apps_BAKEDWalls" remote="baked" revision="jb" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="baked" revision="jb" />
   <project path="packages/apps/Browser" name="packages_apps_Browser" remote="baked" revision="jb" />
