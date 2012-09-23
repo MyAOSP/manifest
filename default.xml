@@ -284,6 +284,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="baked" revision="jb" />
+  <project path="packages/apps/Torch" name="packages_apps_Torch" remote="baked" revision="jb" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="baked" revision="jb" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
