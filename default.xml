@@ -48,6 +48,7 @@
   <project path="device/samsung/crespo" name="device_samsung_crespo" remote="baked" revision="jb" />
   <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" remote="baked" revision="jb" />
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="baked" revision="jb" />
+  <project path="device/samsung/d2att" name="device_samsung_d2att" remote="baked" revision="jb" />
   <project path="device/samsung/d2spr" name="device_samsung_d2spr" remote="baked" revision="jb" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="baked" revision="jb" />
   <project path="device/samsung/d2usc" name="device_samsung_d2usc" remote="baked" revision="jb" />
@@ -61,6 +62,7 @@
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb" />
   <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb" />
   <project path="device/samsung/p3113" name="device_samsung_p3113" remote="baked" revision="jb" />
+  <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="baked" revision="jb" />
   <project path="device/samsung/showcasemtd" name="device_samsung_showcasemtd" remote="baked" revision="jb" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb" />
