@@ -277,7 +277,7 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="baked" revision="jb" />
-  <project path="packages/apps/OTAUpateCenter" name="packages_apps_OTAUpdateCenter" remote="baked" revision="jb" />
+  <project path="packages/apps/OTAUpdateCenter" name="packages_apps_OTAUpdateCenter" remote="baked" revision="jb" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="baked" revision="jb" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
