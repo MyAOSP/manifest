@@ -32,6 +32,7 @@
   <project path="device/asus/grouper" name="device_asus_grouper" remote="baked" revision="jb" />
   <project path="device/asus/tf201" name="device_asus_tf201" remote="baked" revision="jb" />
   <project path="device/asus/tf300t" name="device_asus_tf300t" remote="baked" revision="jb" />
+  <project path="device/asus/tf700t" name="android_device_asus_tf700" remote="baked" revision="masater" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
@@ -372,6 +373,7 @@
   <project path="vendor/widevine" name="vendor_widevine" remote="baked" revision="jb" />
 
   <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb" />
+  <project path="kernel/asus/tf700t" name="android_kernel_asus_tf700" remote="baked" revision="master" />
   <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb" />
   <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="jellybean" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="jellybean" />
