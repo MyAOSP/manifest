@@ -2,7 +2,7 @@
 <manifest>
 
    <remote  name="baked"
-            fetch="git@github.com/TeamBAKED/" />
+            fetch="git://github.com/TeamBAKED/" />
 
    <remote  name="cm"
             fetch="https://github.com/CyanogenMod/"/>
