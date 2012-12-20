@@ -36,8 +36,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/lge/mako" name="device/lge/mako" groups="device" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" />
+  <project path="device/lge/mako" name="device/lge/mako" remote="baked" revision="jb-4.2" />
   <project path="device/moto/common" name="device_moto_common" remote="baked" revision="jb-4.2" />
   <project path="device/moto/stingray" name="device_moto_stingray" remote="baked" revision="jb-4.2" />
   <project path="device/moto/wingray" name="device_moto_wingray" remote="baked" revision="jb-4.2" />
@@ -387,6 +386,7 @@
 
   <project path="vendor/akm" name="vendor_akm" remote="baked" revision="jb-4.2" />
   <project path="vendor/asus" name="vendor_asus" remote="baked" revision="jb-4.2" />
+  <project path="vendor/audience" name="vendor_audience" remote="baked" revision="jb-4.2" />
   <project path="vendor/baked" name="vendor_baked" remote="baked" revision="jb-4.2" />
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb-4.2" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="baked" revision="jb-4.2" />
@@ -394,6 +394,7 @@
   <project path="vendor/htc/endeavoru" name="vendor_htc_endeavoru" remote="baked" revision="jb-4.2" />
   <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" revision="jb-4.2" />
   <project path="vendor/invensense" name="vendor_invensense" remote="baked" revision="jb-4.2" />
+  <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2" />
   <project path="vendor/moto" name="vendor_moto" remote="baked" revision="jb-4.2" />
   <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" revision="jb-4.2" />
   <project path="vendor/nxp" name="vendor_nxp" remote="baked" revision="jb-4.2" />
