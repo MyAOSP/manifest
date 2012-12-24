@@ -289,6 +289,7 @@
   <project path="packages/apps/Camera" name="packages_apps_Camera" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="packages_apps_CMFileManager" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/DSPManager" name="packages_apps_DSPManager" remote="baked" revision="jb-4.2" />
