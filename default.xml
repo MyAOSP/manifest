@@ -56,7 +56,7 @@
   <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
+  <project path="device/samsung/manta" name="device_samsung_manta" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb-4.2" />
