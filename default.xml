@@ -31,6 +31,8 @@
   <project path="device/asus/tf700t" name="device_asus_tf700t" remote="baked" revision="jb-4.2" />
   <project path="device/common" name="device_common" remote="baked" revision="jb-4.2" />
   <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb-4.2" />
+  <project path="device/htc/ville" name="device_htc_ville" remote="baked" revision="jb-4.2" />
+  <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
@@ -409,7 +411,7 @@
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb-4.2" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="baked" revision="jb-4.2" />
   <project path="vendor/elan" name="vendor_elan" remote="baked" revision="jb-4.2" />
-  <project path="vendor/htc/endeavoru" name="vendor_htc_endeavoru" remote="baked" revision="jb-4.2" />
+  <project path="vendor/htc" name="vendor_htc" remote="baked" revision="jb-4.2" />
   <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" revision="jb-4.2" />
   <project path="vendor/invensense" name="vendor_invensense" remote="baked" revision="jb-4.2" />
   <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2" />
@@ -427,6 +429,7 @@
   <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
   <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb-4.2" />
   <project path="kernel/asus/tf700t" name="kernel_asus_tf700t" remote="baked" revision="jb-4.2" />
+  <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb-4.2" />
   <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
