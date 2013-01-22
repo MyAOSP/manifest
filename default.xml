@@ -246,7 +246,7 @@
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="frameworks_av" remote="baked" revision="jb-4.2" />
   <project path="frameworks/base" name="frameworks_base" remote="baked" revision="jb-4.2" />
-  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
+  <project path="frameworks/compile/libbcc" name="frameworks_compile_libbcc" remote="baked" revision="jb-4.2" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
