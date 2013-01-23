@@ -287,7 +287,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="hardware_ril" remote="baked" revision="jb-4.2"/>
   <project path="hardware/samsung" name="hardware_samsung" remote="baked" revision="jb-4.2" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
+  <project path="hardware/samsung_slsi/exynos5" name="hardware_samsung_slsi_exynos5" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/omap3" name="hardware_ti_omap3" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/omap4xxx" name="hardware_ti_omap4xxx" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/wlan" name="hardware_ti_wlan" remote="baked" revision="jb-4.2" />
