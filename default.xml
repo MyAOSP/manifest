@@ -31,6 +31,8 @@
   <project path="device/asus/tf700t" name="device_asus_tf700t" remote="baked" revision="jb-4.2" />
   <project path="device/common" name="device_common" remote="baked" revision="jb-4.2" />
   <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb-4.2" />
+  <project path="device/htc/ville" name="device_htc_ville" remote="baked" revision="jb-4.2" />
+  <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
@@ -56,7 +58,7 @@
   <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/maguro" name="device_samsung_maguro" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
+  <project path="device/samsung/manta" name="device_samsung_manta" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb-4.2" />
@@ -68,6 +70,7 @@
   <project path="device/samsung/p4-common" name="device_samsung_p4-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p5wifi" name="device_samsung_p5wifi" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/smdk4412-common" name="device_samsung_smdk4412-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/showcasemtd" name="device_samsung_showcasemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/smdk4412-common" name="device_samsung_smdk4412-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb-4.2" />
@@ -78,7 +81,7 @@
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="external_aac" remote="baked" revision="jb-4.2" />
   <project path="external/android-clat" name="platform/external/android-clat" />
-  <project path="external/android-mock" name="platform/external/android-mock" />
+  <project path="external/android-mock" name="external_android-mock" remote="baked" revision="jb-4.2" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
   <project path="external/antlr" name="platform/external/antlr" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" />
@@ -90,7 +93,7 @@
   <project path="external/bash" name="external_bash" remote="baked" revision="jb-4.2" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" revision="refs/tags/android-4.2.1_r1_" />
+  <project path="external/bluetooth/bluedroid" name="external_bluetooth_bluedroid" remote="baked" revision="jb-4.2" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/busybox" name="external_busybox" remote="baked" revision="jb-4.2" />
@@ -99,7 +102,7 @@
   <project path="external/chromium" name="external_chromium" remote="baked" revision="jb-4.2" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
-  <project path="external/clang" name="platform/external/clang" />
+  <project path="external/clang" name="external_clang" remote="baked" revision="jb-4.2" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
@@ -107,7 +110,7 @@
   <project path="external/dnsmasq" name="external_dnsmasq" remote="baked" revision="jb-4.2" />
   <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/dropbear" name="platform/external/dropbear" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" />
+  <project path="external/e2fsprogs" name="external_e2fsprogs" remote="baked" revision="jb-4.2" />
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
@@ -149,6 +152,7 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
+  <project path="external/libcap-ng" name="external_libcap-ng" remote="baked" revision="jb-4.2" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
@@ -161,6 +165,7 @@
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" />
   <project path="external/libpng" name="external_libpng" remote="baked" revision="jb-4.2" />
+  <project path="external/libppp" name="external_libppp" remote="baked" revision="jb-4.2" />
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
   <project path="external/libusb" name="platform/external/libusb" />
@@ -174,6 +179,7 @@
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
+  <project path="external/lsof" name="external_lsof" remote="baked" revision="jb-4.2" />
   <project path="external/lzo" name="external_lzo" remote="baked" revision="jb-4.2" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
@@ -189,6 +195,7 @@
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/nist-sip" name="platform/external/nist-sip" />
   <project path="external/oauth" name="platform/external/oauth" />
+  <project path="external/okhttp" name="external_okhttp" remote="baked" revision="jb-4.2" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="external_openssh" remote="baked" revision="jb-4.2"/>
@@ -203,6 +210,7 @@
   <project path="external/protobuf" name="platform/external/protobuf" />
   <project path="external/qemu" name="external_qemu" remote="baked" revision="jb-4.2" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
+  <project path="external/qrngd" name="external_qrngd" remote="baked" revision="jb-4.2" />
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/regex-re2" name="platform/external/regex-re2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
@@ -227,6 +235,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/valgrind" name="platform/external/valgrind" />
+  <project path="external/vim" name="external_vim" remote="baked" revision="jb-4.2" />
   <project path="external/webkit" name="external_webkit" remote="baked" revision="jb-4.2" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
@@ -239,7 +248,7 @@
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="frameworks_av" remote="baked" revision="jb-4.2" />
   <project path="frameworks/base" name="frameworks_base" remote="baked" revision="jb-4.2" />
-  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
+  <project path="frameworks/compile/libbcc" name="frameworks_compile_libbcc" remote="baked" revision="jb-4.2" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
@@ -256,7 +265,7 @@
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="baked" revision="jb-4.2" />
-  <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
+  <project path="frameworks/opt/vcard" name="frameworks_opt_vcard" remote="baked" revision="jb-4.2" />
   <project path="frameworks/rs" name="platform/frameworks/rs" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
@@ -282,8 +291,8 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="hardware_ril" remote="baked" revision="jb-4.2"/>
   <project path="hardware/samsung" name="hardware_samsung" remote="baked" revision="jb-4.2" />
-  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+  <project path="hardware/samsung_slsi/exynos5" name="hardware_samsung_slsi_exynos5" remote="baked" revision="jb-4.2" />
+  <project path="hardware/ti/omap3" name="hardware_ti_omap3" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/omap4xxx" name="hardware_ti_omap4xxx" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/wlan" name="hardware_ti_wlan" remote="baked" revision="jb-4.2" />
   <project path="hardware/ti/wpan" name="hardware_ti_wpan" remote="baked" revision="jb-4.2" />
@@ -326,7 +335,7 @@
   <project path="packages/apps/SamsungServiceMode" name="packages_apps_SamsungServiceMode" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
-  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
+  <project path="packages/apps/SoundRecorder" name="packages_apps_SoundRecorder" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="baked" revision="jb-4.2" />
@@ -335,7 +344,7 @@
   <project path="packages/apps/Torch" name="packages_apps_Torch" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
-  <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+  <project path="packages/apps/VoiceDialer" name="packages_apps_VoiceDialer" remote="baked" revision="jb-4.2" />
   <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="baked" revision="jb-4.2" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
@@ -391,7 +400,7 @@
   <project path="system/core" name="system_core" remote="baked" revision="jb-4.2" />
   <project path="system/extras" name="system_extras" remote="baked" revision="jb-4.2" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="platform/system/netd" />
+  <project path="system/netd" name="system_netd" remote="baked" revision="jb-4.2" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/su" name="system_su" remote="baked" revision="jb-4.2" />
   <project path="system/vold" name="system_vold" remote="baked" revision="jb-4.2" />
@@ -405,7 +414,7 @@
   <project path="vendor/baked/bot" name="pseudo_buildbot" remote="baked" revision="jb-4.2" />
   <project path="vendor/broadcom" name="vendor_broadcom" remote="baked" revision="jb-4.2" />
   <project path="vendor/elan" name="vendor_elan" remote="baked" revision="jb-4.2" />
-  <project path="vendor/htc/endeavoru" name="vendor_htc_endeavoru" remote="baked" revision="jb-4.2" />
+  <project path="vendor/htc" name="vendor_htc" remote="baked" revision="jb-4.2" />
   <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" revision="jb-4.2" />
   <project path="vendor/invensense" name="vendor_invensense" remote="baked" revision="jb-4.2" />
   <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2" />
@@ -423,8 +432,10 @@
   <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
   <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb-4.2" />
   <project path="kernel/asus/tf700t" name="kernel_asus_tf700t" remote="baked" revision="jb-4.2" />
+  <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb-4.2" />
   <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/p5" name="kernel_samsung_p5" remote="baked" revision="jb-4.2" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.1" />
 </manifest>
