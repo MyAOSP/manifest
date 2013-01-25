@@ -60,12 +60,16 @@
   <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/n80xx-common" name="device_samsung_n80xx-common" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/n8000" name="device_samsung_n8000" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/n8013" name="device_samsung_n8013" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p3113" name="device_samsung_p3113" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p4-common" name="device_samsung_p4-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p5wifi" name="device_samsung_p5wifi" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/showcasemtd" name="device_samsung_showcasemtd" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/smdk4412-common" name="device_samsung_smdk4412-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/toro" name="device_samsung_toro" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb-4.2" />
@@ -319,6 +323,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="baked" revision="jb-4.2" />
+  <project path="packages/apps/SamsungServiceMode" name="packages_apps_SamsungServiceMode" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
@@ -421,4 +426,5 @@
   <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb-4.2" />
   <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.1" />
 </manifest>
