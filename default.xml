@@ -66,7 +66,7 @@
   <project path="device/samsung/n8000" name="device_samsung_n8000" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/n8013" name="device_samsung_n8013" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p3100" name="device_samsung_p3100" remote="baked" revision="jb-4.2" />
-  <project path="device/samsung/p3113" name="device_samsung_p3113" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/p3110" name="device_samsung_p3110" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p4-common" name="device_samsung_p4-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/p5wifi" name="device_samsung_p5wifi" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/qcom-common" name="device_samsung_qcom-common" remote="baked" revision="jb-4.2" />
