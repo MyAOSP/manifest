@@ -76,7 +76,7 @@
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/vibrantmtd" name="device_samsung_vibrantmtd" remote="baked" revision="jb-4.2" />
-  <project path="device/ti/panda" name="device/ti/panda" />
+  <project path="device/ti/panda" name="device/ti/panda" revision="refs/tags/android-4.2.1_r1.2" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="external_aac" remote="baked" revision="jb-4.2" />
   <project path="external/android-clat" name="platform/external/android-clat" />
@@ -157,7 +157,7 @@
   <project path="external/liblzf" name="platform/external/liblzf" />
   <project path="external/libmtp" name="platform/external/libmtp" />
   <project path="external/libncurses" name="external_libncurses" remote="baked" revision="jb-4.2" />
-  <project path="external/libnfc-nci" name="platform/external/libnfc-nci" revision="refs/tags/android-4.2.1_r1_" />
+  <project path="external/libnfc-nci" name="platform/external/libnfc-nci" />
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="baked" revision="jb-4.2" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libogg" name="platform/external/libogg" />
