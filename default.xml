@@ -137,6 +137,7 @@
   <project path="external/guava" name="external_guava" remote="baked" revision="jb-4.2" />
   <project path="external/hamcrest" name="platform/external/hamcrest" />
   <project path="external/harfbuzz" name="platform/external/harfbuzz" />
+  <project path="external/hox_tools" name="external_hox_tools" remote="baked" revision="jb-4.2" />
   <project path="external/hyphenation" name="platform/external/hyphenation" />
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
@@ -248,7 +249,6 @@
   <project path="external/yaffs2" name="external_yaffs2" remote="baked" revision="jb-4.2" />
   <project path="external/zlib" name="external_zlib" remote="baked" revision="jb-4.2" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="external/hox_tools" name="android_hox_tools" remote="baked" revision="jb-mr1" />
   <project path="frameworks/av" name="frameworks_av" remote="baked" revision="jb-4.2" />
   <project path="frameworks/base" name="frameworks_base" remote="baked" revision="jb-4.2" />
   <project path="frameworks/compile/libbcc" name="frameworks_compile_libbcc" remote="baked" revision="jb-4.2" />
