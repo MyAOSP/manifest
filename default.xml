@@ -7,6 +7,9 @@
    <remote  name="cm"
             fetch="https://github.com/CyanogenMod/"/>
 
+   <remote  name="github"
+            fetch="git://github.com"/>
+
    <remote  name="aosp"
             fetch="https://android.googlesource.com/" />
 
@@ -418,7 +421,7 @@
   <project path="vendor/htc" name="vendor_htc" remote="baked" revision="jb-4.2" />
   <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" revision="jb-4.2" />
   <project path="vendor/invensense" name="vendor_invensense" remote="baked" revision="jb-4.2" />
-  <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2" />
+  <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" revision="jb-4.2h" />
   <project path="vendor/moto" name="vendor_moto" remote="baked" revision="jb-4.2" />
   <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" revision="jb-4.2" />
   <project path="vendor/nxp" name="vendor_nxp" remote="baked" revision="jb-4.2" />
@@ -431,6 +434,7 @@
   <project path="vendor/widevine" name="vendor_widevine" remote="baked" revision="jb-4.2" />
 
   <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
+  <project path="kernel/lge/mako" name="faux123/mako" remote="github" revision="jb_mr1.1_exp" />
   <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb-4.2" />
   <project path="kernel/asus/tf700t" name="kernel_asus_tf700t" remote="baked" revision="jb-4.2" />
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
