@@ -442,7 +442,7 @@
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="kernel_samsung_manta" remote="baked" revision="jb-4.2" />
   <project path="kernel/samsung/p5" name="kernel_samsung_p5" remote="baked" revision="jb-4.2" />
-  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.1" /> 
+  <project path="kernel/samsung/smdk4412" name="kernel_samsung_smdk4412" remote="baked" revision="cm-10.1" /> 
   <project path="kernel/samsung/t1" name="android_kernel_samsung_t1" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/espresso10" name="android_kernel_samsung_espresso10" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="cm" revision="cm-10.1" />
