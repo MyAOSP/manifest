@@ -67,6 +67,8 @@
   <project path="device/samsung/mesmerizemtd" name="device_samsung_mesmerizemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8960-common" name="device_samsung_msm8960-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/msm8660-common" name="device_samsung_msm8660-common" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/n7000" name="device_samsung_n7000" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/n7100" name="device_samsung_n7100" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/n80xx-common" name="device_samsung_n80xx-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/n8000" name="device_samsung_n8000" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/n801x" name="device_samsung_n801x" remote="baked" revision="jb-4.2" />
