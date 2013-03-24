@@ -59,6 +59,7 @@
   <project path="device/samsung/d2vzw" name="device_samsung_d2vzw" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/fascinatemtd" name="device_samsung_fascinatemtd" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/galaxysmtd" name="device_samsung_galaxysmtd" remote="baked" revision="jb-4.2" />
+  <project path="device/samsung/galaxys2-common" name="device_samsung_galaxys2-common" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/i9100" name="device_samsung_i9100" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/i9100g" name="device_samsung_i9100g" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/i9300" name="device_samsung_i9300" remote="baked" revision="jb-4.2" />
