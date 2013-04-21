@@ -13,7 +13,7 @@
    <remote  name="aosp"
             fetch="https://android.googlesource.com/" />
 
-   <default revision="refs/tags/android-4.2.2_r1"
+   <default revision="refs/tags/android-4.2.2_r1.2"
             remote="aosp"
             sync-j="4" />
 
@@ -84,7 +84,7 @@
   <project path="device/samsung/toroplus" name="device_samsung_toroplus" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" remote="baked" revision="jb-4.2" />
   <project path="device/samsung/vibrantmtd" name="device_samsung_vibrantmtd" remote="baked" revision="jb-4.2" />
-  <project path="device/ti/panda" name="device/ti/panda" revision="refs/tags/android-4.2.1_r1.2" />
+  <project path="device/ti/panda" name="device/ti/panda"  />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="external_aac" remote="baked" revision="jb-4.2" />
   <project path="external/android-clat" name="platform/external/android-clat" />
