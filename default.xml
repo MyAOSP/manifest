@@ -335,37 +335,37 @@
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Mms" name="packages_apps_Mms" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
+  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/OTAUpdateCenter" name="packages_apps_OTAUpdateCenter" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="packages_apps_Phone" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/Protips" name="platform/packages/apps/Protips" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
+  <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
+  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
   <project path="packages/apps/ROMControl" name="packages_apps_ROMControl" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/SamsungServiceMode" name="packages_apps_SamsungServiceMode" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="packages_apps_SoundRecorder" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
+  <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/Tag" name="platform/packages/apps/Tag" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Torch" name="packages_apps_Torch" remote="baked" revision="jb-4.2" />
   <project path="packages/apps/Trebuchet" name="packages_apps_Trebuchet" remote="baked" revision="jb-4.2" />
-  <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="packages_apps_VoiceDialer" remote="baked" revision="jb-4.2" />
-  <project path="packages/experimental" name="platform/packages/experimental" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/experimental" name="platform/packages/experimental" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="baked" revision="jb-4.2" />
-  <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
+  <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="packages_providers_ApplicationsProvider" remote="baked" revision="jb-4.2" />
-  <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="baked" revision="jb-4.2"/>
-  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" revision="refs/tags/android-4.2.2_r1.1" />
-  <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
+  <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="baked" revision="jb-4.2" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="baked" revision="jb-4.2" />
