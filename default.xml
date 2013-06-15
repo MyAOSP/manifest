@@ -33,6 +33,7 @@
   <project path="device/asus/tf300t" name="device_asus_tf300t" remote="baked" revision="jb-4.2" />
   <project path="device/asus/tf700t" name="device_asus_tf700t" remote="baked" revision="jb-4.2" />
   <project path="device/common" name="device_common" remote="baked" revision="jb-4.2" />
+  <project path="device/htc/dlx" name="device_htc_dlx" remote="baked" revision="jb-4.2" />
   <project path="device/htc/endeavoru" name="device_htc_endeavoru" remote="baked" revision="jb-4.2" />
   <project path="device/htc/evita" name="device_htc_evita" remote="baked" revision="jb-4.2" />
   <project path="device/htc/m7att" name="device_htc_m7att" remote="baked" revision="jb-4.2" />
@@ -445,6 +446,7 @@
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="cm" revision="jellybean"/>
   <project path="kernel/asus/tf201" name="kernel_asus_tf201" remote="baked" revision="jb-4.2" />
   <project path="kernel/asus/tf700t" name="kernel_asus_tf700t" remote="baked" revision="jb-4.2" />
+  <project path="kernel/htc/dlx-3.4" name="kernel_htc_dlx" remote="baked" revision="jb-4.2" />
   <project path="kernel/htc/m7" name="android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8960" name="kernel_htc_msm8960" remote="baked" revision="jb-4.2" />
   <project path="kernel/moto/wingray" name="kernel_moto_wingray" remote="baked" revision="jb-4.2" />
