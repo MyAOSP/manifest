@@ -434,7 +434,7 @@
   <project path="vendor/htc" name="vendor_htc" remote="baked" />
   <project path="vendor/imgtec" name="vendor_imgtec" remote="baked" />
   <project path="vendor/invensense" name="vendor_invensense" remote="baked" />
-  <project path="vendor/lge/mako" name="vendor_lge_mako" remote="baked" />
+  <project path="vendor/lge" name="vendor_lge" remote="baked" />
   <project path="vendor/moto" name="vendor_moto" remote="baked" />
   <project path="vendor/nvidia" name="vendor_nvidia" remote="baked" />
   <project path="vendor/nxp" name="vendor_nxp" remote="baked" />
