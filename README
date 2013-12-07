@@ -1,5 +1,5 @@
-BAKED rom android 4.2
+<h1>BakedRom</h1>
+<h2>Android 4.4.1 kitkat</h2>
 
-$ repo init -u https://github.com/TeamBAKED/platform_manifest.git -b jb-4.2
-$ repo sync
-
+<pre><code>repo init -u https://github.com/TeamBAKED/platform_manifest.git -b kk-4.4</code></pre>
+<pre><code>repo sync</code></pre>
