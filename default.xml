@@ -6,15 +6,12 @@
            review="android-review.googlesource.com" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com/"
            review="review.cyanogenmod.org" />
 
   <remote  name="baked"
            fetch="https://github.com/TeamBAKED/"
            revision="refs/heads/kk-4.4" />
-
-  <remote  name="private"
-           fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cm-11.0"
            remote="github"
