@@ -338,7 +338,7 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/Contacts" name="TeamBAKED/packages_apps_Contacts" remote="github" revision="kk-4.4" />
   <project path="packages/apps/ContactsCommon" name="TeamBAKED/packages_apps_ContactsCommon" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/DeskClock" name="TeamBAKED/android_packages_apps_DeskClock" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/DeskClock" name="TeamBAKED/packages_apps_DeskClock" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Dialer" name="TeamBAKED/packages_apps_Dialer" remote="github" revision="kk-4.4" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
@@ -457,7 +457,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/baked" name="TeamBAKED/vendor_baked" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/android_vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/android_vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
 </manifest>
