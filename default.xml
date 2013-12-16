@@ -334,7 +334,7 @@
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
+  <project path="packages/apps/CMFileManager" name="TeamBAKED/packages_apps_CMFileManager" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Contacts" name="TeamBAKED/packages_apps_Contacts" remote="github" revision="kk-4.4" />
   <project path="packages/apps/ContactsCommon" name="TeamBAKED/packages_apps_ContactsCommon" remote="github" revision="kk-4.4" />
   <project path="packages/apps/DeskClock" name="TeamBAKED/packages_apps_DeskClock" remote="github" revision="kk-4.4" />
