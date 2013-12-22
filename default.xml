@@ -267,10 +267,10 @@
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
-  <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
+  <project path="frameworks/ex" name="TeamBAKED/android_frameworks_ex" remote="github" revision="kk-4.4" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/native" name="TeamBAKED/frameworks_native" remote="github" revision="kk-4.4" groups="pdk" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -348,7 +348,7 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" name="TeamBAKED/packages_apps_LockClock" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="TeamBAKED/android_packages_apps_Mms" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
@@ -365,9 +365,8 @@
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
-  <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
+  <project path="packages/inputmethods/LatinIME" name="TeamBAKED/android_packages_inputmethods_LatinIME" remote="github" revision="kk-4.4" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
@@ -439,7 +438,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
-  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" />
+  <project path="system/core" name="TeamBAKED/system_core" remote="github" revision="kk-4.4" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
