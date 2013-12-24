@@ -348,7 +348,7 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" name="TeamBAKED/packages_apps_LockClock" remote="github" revision="kk-4.4" />
-  <project path="packages/apps/Mms" name="TeamBAKED/android_packages_apps_Mms" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/Mms" name="TeamBAKED/packages_apps_Mms" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
