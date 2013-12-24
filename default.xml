@@ -267,7 +267,7 @@
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
-  <project path="frameworks/ex" name="TeamBAKED/android_frameworks_ex" remote="github" revision="kk-4.4" />
+  <project path="frameworks/ex" name="TeamBAKED/frameworks_ex" remote="github" revision="kk-4.4" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
   <project path="frameworks/native" name="TeamBAKED/frameworks_native" remote="github" revision="kk-4.4" groups="pdk" />
