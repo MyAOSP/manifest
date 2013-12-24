@@ -256,6 +256,8 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" groups="pdk" />
+  <project path="external/whispersystems/TextSecure" name="CyanogenMod/android_external_whispersystems_TextSecure" />
+  <project path="external/whispersystems/WhisperPush" name="CyanogenMod/android_external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="CyanogenMod/android_external_xmp_toolkit" />
@@ -456,6 +458,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/baked" name="TeamBAKED/vendor_baked" remote="github" revision="kk-4.4" />
+  <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" remote="github" revision="kk-4.4" />
   <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" remote="github" revision="kk-4.4" />
