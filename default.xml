@@ -171,7 +171,7 @@
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" revision="cm-11.0" groups="pdk" />
   <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" revision="cm-11.0" groups="pdk" />
   <project path="external/libusb" name="CyanogenMod/android_external_libusb" revision="cm-11.0" />
-  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" revision="cm-11.0" >
+  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" revision="cm-11.0" />
   <project path="external/libusb-compat" name="CyanogenMod/android_external_libusb-compat" revision="cm-11.0" />
   <project path="external/libvorbis" name="CyanogenMod/android_external_libvorbis" revision="cm-11.0" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" revision="cm-11.0" groups="pdk" />
