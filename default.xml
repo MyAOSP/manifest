@@ -346,7 +346,7 @@
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" revision="cm-11.0" />
   <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" revision="cm-11.0" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" revision="cm-11.0" />
-  <project path="packages/apps/InCallUI" name="CyanogenMod/android_packages_apps_InCallUI" revision="cm-11.0" />
+  <project path="packages/apps/InCallUI" name="TeamBAKED/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" revision="cm-11.0" />
   <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" revision="cm-11.0" />
   <project path="packages/apps/LockClock" name="TeamBAKED/packages_apps_LockClock" />
