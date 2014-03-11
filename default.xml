@@ -361,7 +361,7 @@
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" revision="cm-11.0" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" revision="cm-11.0" />
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" revision="cm-11.0" />
-  <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" revision="cm-11.0" />
+  <project path="packages/apps/Stk" name="TeamBAKED/packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" revision="cm-11.0" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="TeamBAKED/packages_apps_Torch" />
@@ -373,11 +373,11 @@
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" revision="cm-11.0" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" revision="cm-11.0" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" revision="cm-11.0" />
-  <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" revision="cm-11.0" />
+  <project path="packages/providers/ContactsProvider" name="TeamBAKED/packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" revision="cm-11.0" />
   <project path="packages/providers/MediaProvider" name="TeamBAKED/packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" revision="cm-11.0" />
-  <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" revision="cm-11.0" />
+  <project path="packages/providers/TelephonyProvider" name="TeamBAKED/packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" revision="cm-11.0" />
   <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" revision="cm-11.0" />
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" revision="cm-11.0" />
