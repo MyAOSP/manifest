@@ -367,8 +367,9 @@
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" revision="cm-11.0" />
   <project path="packages/apps/Stk" name="TeamBAKED/packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" revision="cm-11.0" />
-  <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" revision="cm-11.0" />
+  <project path="packages/apps/ThemeChooser" name="TeamBAKED/packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="TeamBAKED/packages_apps_Torch" />
+  <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" revision="cm-11.0" />
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" revision="cm-11.0" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" revision="cm-11.0" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" revision="cm-11.0" />
@@ -382,6 +383,7 @@
   <project path="packages/providers/MediaProvider" name="TeamBAKED/packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" revision="cm-11.0" />
   <project path="packages/providers/TelephonyProvider" name="TeamBAKED/packages_providers_TelephonyProvider" />
+  <project path="packages/providers/ThemesProvider" name="TeamBAKED/packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" revision="cm-11.0" />
   <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" revision="cm-11.0" />
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" revision="cm-11.0" />
@@ -462,7 +464,4 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="vendor/baked" name="TeamBAKED/vendor_baked" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" />
 </manifest>
