@@ -8,10 +8,6 @@
   <remote  name="github"
            fetch="https://github.com/" />
 
-  <remote  name="tm"
-           fetch="git://github.com/TheMuppets"
-           review="" />
-
   <default revision="refs/heads/kk-4.4"
            remote="github"
            sync-c="true"
@@ -469,5 +465,4 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="TeamBAKED/vendor_tmobile_apps_ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="TeamBAKED/vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="TeamBAKED/vendor_tmobile_providers_ThemeManager" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
 </manifest>
