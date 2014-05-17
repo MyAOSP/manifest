@@ -113,6 +113,7 @@
   <project path="external/eyes-free" name="CyanogenMod/android_external_eyes-free" revision="cm-11.0" />
   <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" revision="cm-11.0" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" revision="cm-11.0" />
+  <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" revision="cm-11.0" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" revision="cm-11.0" groups="pdk" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" revision="cm-11.0" groups="pdk" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" revision="cm-11.0" />
@@ -242,6 +243,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" revision="cm-11.0" groups="pdk" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" revision="cm-11.0" />
   <project path="external/srtp" name="CyanogenMod/android_external_srtp" revision="cm-11.0" />
+  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" revision="cm-11.0" />
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" revision="cm-11.0" groups="pdk" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" revision="cm-11.0" />
   <project path="external/stressapptest" name="CyanogenMod/android_external_stressapptest" revision="cm-11.0" />
