@@ -171,6 +171,7 @@
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" revision="cm-11.0" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" revision="cm-11.0" groups="pdk" />
   <project path="external/libppp" name="CyanogenMod/android_external_libppp" revision="cm-11.0" />
+  <project path="external/libtar" name="CyanogenMod/android_external_libtar" revision="cm-11.0" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" revision="cm-11.0" groups="pdk" />
   <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" revision="cm-11.0" groups="pdk" />
   <project path="external/libusb" name="CyanogenMod/android_external_libusb" revision="cm-11.0" />
