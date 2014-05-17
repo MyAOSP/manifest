@@ -44,6 +44,7 @@
   <project path="external/aac" name="CyanogenMod/android_external_aac" revision="cm-11.0" groups="pdk" />
   <project path="external/android-clat" name="CyanogenMod/android_external_android-clat" revision="cm-11.0" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" revision="cm-11.0" />
+  <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" revision="cm-11.0" />
   <project path="external/ant-glob" name="CyanogenMod/android_external_ant-glob" revision="cm-11.0" />
   <project path="external/antlr" name="CyanogenMod/android_external_antlr" revision="cm-11.0" />
   <project path="external/apache-harmony" name="CyanogenMod/android_external_apache-harmony" revision="cm-11.0" />
