@@ -317,10 +317,10 @@
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" revision="cm-11.0" groups="qcom" />
-  <project path="hardware/qcom/display-caf" name="TeamBAKED/android_hardware_qcom_display-caf" groups="caf" />
+  <project path="hardware/qcom/display-caf" name="TeamBAKED/hardware_qcom_display-caf" groups="caf" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" revision="cm-11.0" groups="qcom" />
-  <project path="hardware/qcom/media" name="TeamBAKED/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media" name="TeamBAKED/hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" revision="cm-11.0" groups="caf" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" revision="cm-11.0" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="CyanogenMod/android_hardware_qcom_msm8x74" revision="cm-11.0" groups="qcom_msm8x74" />
