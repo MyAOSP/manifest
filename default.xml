@@ -32,7 +32,7 @@
   <project path="device/common" name="CyanogenMod/android_device_common" revision="cm-11.0" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" revision="cm-11.0" groups="pdk" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" revision="cm-11.0" groups="pdk" />
-  <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="device/generic/goldfish" name="TeamBAKED/device_generic_goldfish" groups="pdk" />
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" revision="cm-11.0" groups="pdk" />
   <project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" revision="cm-11.0" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
