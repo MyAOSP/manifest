@@ -125,7 +125,7 @@
   <project path="external/gcc-demangle" name="CyanogenMod/android_external_gcc-demangle" revision="cm-11.0" groups="pdk" />
   <project path="external/genext2fs" name="CyanogenMod/android_external_genext2fs" revision="cm-11.0" />
   <project path="external/giflib" name="CyanogenMod/android_external_giflib" revision="cm-11.0" />
-  <project path="external/google" name="CyanogenMod/android_external_google" revision="cm-11.0" />
+  <project path="external/google" name="TeamBAKED/external_google" />
   <project path="external/google-diff-match-patch" name="CyanogenMod/android_external_google-diff-match-patch" revision="cm-11.0" />
   <project path="external/grub" name="CyanogenMod/android_external_grub" revision="cm-11.0" />
   <project path="external/gson" name="CyanogenMod/android_external_gson" revision="cm-11.0" />
@@ -266,7 +266,7 @@
   <project path="external/webp" name="CyanogenMod/android_external_webp" revision="cm-11.0" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" revision="cm-11.0" groups="pdk" />
   <project path="external/whispersystems/TextSecure" name="CyanogenMod/android_external_whispersystems_TextSecure" revision="cm-11.0" />
-  <project path="external/whispersystems/WhisperPush" name="CyanogenMod/android_external_whispersystems_WhisperPush" revision="cm-11.0" />
+  <project path="external/whispersystems/WhisperPush" name="TeamBAKED/external_whispersystems_WhisperPush" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" revision="cm-11.0" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" revision="cm-11.0" groups="pdk" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" revision="cm-11.0" />
