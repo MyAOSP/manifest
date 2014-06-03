@@ -147,7 +147,7 @@
   <project path="external/javasqlite" name="CyanogenMod/android_external_javasqlite" revision="cm-11.0" />
   <project path="external/javassist" name="CyanogenMod/android_external_javassist" revision="cm-11.0" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" revision="cm-11.0" />
-  <project path="external/jhead" name="CyanogenMod/android_external_jhead" revision="cm-11.0" groups="pdk" />
+  <project path="external/jhead" name="platform/external/jhead" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/jmdns" name="CyanogenMod/android_external_jmdns" revision="cm-11.0" />
   <project path="external/jmonkeyengine" name="CyanogenMod/android_external_jmonkeyengine" revision="cm-11.0" />
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" revision="cm-11.0" groups="pdk" />
