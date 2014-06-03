@@ -71,7 +71,6 @@
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/chromium_org/third_party/angle_dx11" name="platform/external/chromium_org/third_party/angle_dx11" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -301,7 +300,6 @@
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" revision="cm-11.0" groups="pdk" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" revision="cm-11.0" />
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" revision="cm-11.0" />
-  <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" revision="cm-11.0" />
   <project path="frameworks/webview" name="CyanogenMod/android_frameworks_webview" revision="cm-11.0" />
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" revision="cm-11.0" />
