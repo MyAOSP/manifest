@@ -43,7 +43,7 @@
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/android-clat" name="platfrom/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" revision="cm-11.0" />
   <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -235,7 +235,7 @@
   <project path="external/regex-re2" name="platform/external/regex-re2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/rsync" name="platform/external/rsync" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/rsync" name="TeamBAKED/external_rsync" />
   <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/sepolicy" name="TeamBAKED/external_sepolicy" groups="pdk" />
