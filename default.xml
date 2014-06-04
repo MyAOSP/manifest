@@ -270,7 +270,7 @@
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="TeamBAKED/external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="TeamBAKED/external_wpa_supplicant_8_ti" groups="pdk" />
-  <project path="external/xmlwriter" name="platform/external_xmlwriter" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp/toolkit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/yaffs2" name="TeamBAKED/external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="TeamBAKED/external_zlib" groups="pdk" />
