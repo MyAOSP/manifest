@@ -117,7 +117,7 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/f2fs-tools" name="TeamBAKED/external_f2fs-tools" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/ffmpeg" name="CyanogenMod/andorid_external_ffmpeg" revision="cm-11.0" />
+  <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" revision="cm-11.0" />
   <project path="external/flac" name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/freetype" name="platform/external/freetype" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
