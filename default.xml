@@ -160,18 +160,18 @@
   <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" revision="cm-11.0" />
   <project path="external/koush/Superuser" name="CyanogenMod/Superuser" revision="cm-11.0" />
   <project path="external/koush/Widgets" name="CyanogenMod/Widgets" revision="cm-11.0" />
-  <project path="external/libcap-ng" name="platform/external_libcap-ng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libffi" name="platform/external_libffi" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libgsm" name="platform/external_libgsm" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/liblzf" name="platform/external_liblzf" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libmtp" name="platform/external_libmtp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libncurses" name="platform/external_libncurses" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libnfc-nci" name="platform/external_libnfc-nci" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libnfc-nxp" name="platform/external_libnfc-nxp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libnl-headers" name="platform/external_libnl-headers" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libogg" name="platform/external_libogg" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libpcap" name="platform/external_libpcap" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/libmtp" name="platform/external/libmtp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libncurses" name="TeamBAKED/external_libncurses" />
+  <project path="external/libnfc-nci" name="platform/external/libnfc-nci" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/libogg" name="platform/external/libogg" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" revision="cm-11.0" />
   <project path="external/libpng" name="platform/external/libpng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
