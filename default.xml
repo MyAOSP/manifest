@@ -112,7 +112,7 @@
   <project path="external/embunit" name="platform/external/embunit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/emma" name="platform/external/emma" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/esd" name="platform/external/esd" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/exfat" name="CyanogenMod/andorid_external_exfat" revision="cm-11.0" />
+  <project path="external/exfat" name="CyanogenMod/android_external_exfat" revision="cm-11.0" />
   <project path="external/expat" name="platform/external/expat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/f2fs-tools" name="TeamBAKED/external_f2fs-tools" />
