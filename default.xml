@@ -155,7 +155,7 @@
   <project path="external/jsr305" name="platform/external/jsr305" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/kissfft" name="CyanogenMod/external_kissfft" revision="cm-11.0" />
+  <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" revision="cm-11.0" />
   <project path="external/koush/ion" name="CyanogenMod/ion" revision="cm-11.0" />
   <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" revision="cm-11.0" />
   <project path="external/koush/Superuser" name="CyanogenMod/Superuser" revision="cm-11.0" />
