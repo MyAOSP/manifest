@@ -44,7 +44,7 @@
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/android-clat" name="platfrom/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/android-mock" name="platform/external_android-mock" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" revision="cm-11.0" />
   <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -55,13 +55,13 @@
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" revision="cm-11.0" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/blktrace" name="platform/external_blktrace" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/bluetooth/bluedroid" name="TeamBAKED/external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="TeamBAKED/external_bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/bson" name="CyanogenMod/android_external_bson" revision="cm-11.0" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="cm-11.0" />
-  <project path="external/bzip2" name="platform/external_bzip2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/chromium" name="TeamBAKED/external_chromium" />
