@@ -63,7 +63,7 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" revision="cm-11.0" />
   <project path="external/bzip2" name="platform/external_bzip2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/checkpolicy" name="platform/external_checkpolicy" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/chromium" name="TeamBAKED/external_chromium" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
