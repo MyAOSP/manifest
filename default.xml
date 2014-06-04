@@ -115,7 +115,7 @@
   <project path="external/exfat" name="CyanogenMod/andorid_external_exfat" revision="cm-11.0" />
   <project path="external/expat" name="platform/external/expat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/f2fs-tools" name="platform/external/f2fs-tools" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/f2fs-tools" name="TeamBAKED/external_f2fs-tools" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/ffmpeg" name="CyanogenMod/andorid_external_ffmpeg" revision="cm-11.0" />
   <project path="external/flac" name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
@@ -243,7 +243,7 @@
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/skia" name="TeamBAKED/external_skia" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/smali" name="platform/externalsmali" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/smali" name="platform/external/smali" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/sonivox" name="platform/external/sonivox" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/speex" name="platform/external/speex" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/spongycastle" name="TeamBAKED/external_spongycastle" groups="pdk" />
