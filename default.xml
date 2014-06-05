@@ -28,7 +28,7 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="development" name="TeamBAKED/development" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="development" name="TeamBAKED/development" />
   <project path="device/common" name="TeamBAKED/device_common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" remote="aosp" revision="refs/tags/android-4.4.3_r1.1"  groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
@@ -291,16 +291,16 @@
   <project path="frameworks/opt/emoji" name="TeamBAKED/frameworks_opt_emoji" />
   <project path="frameworks/opt/hardware" name="TeamBAKED/frameworks_opt_hardware" />
   <project path="frameworks/opt/inputmethodcommon" name="TeamBAKED/frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mailcommon" name="CyanogenMod/android_frameworks_opt_mailcommon" revision="cm-11.0" />
-  <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" revision="cm-11.0" />
-  <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" revision="cm-11.0" />
-  <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" revision="cm-11.0" />
-  <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" revision="cm-11.0" />
+  <project path="frameworks/opt/mailcommon" name="TeamBAKED/frameworks_opt_mailcommon" />
+  <project path="frameworks/opt/mms" name="TeamBAKED/frameworks_opt_mms" />
+  <project path="frameworks/opt/net/voip" name="TeamBAKED/frameworks_opt_net_voip" />
+  <project path="frameworks/opt/photoviewer" name="TeamBAKED/frameworks_opt_photoviewer" />
+  <project path="frameworks/opt/timezonepicker" name="TeamBAKED/frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/telephony" name="TeamBAKED/frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/opt/telephony-msim" name="TeamBAKED/frameworks_opt_telephony-msim" />
-  <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" revision="cm-11.0" />
+  <project path="frameworks/opt/vcard" name="TeamBAKED/frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" revision="cm-11.0" groups="pdk" />
+  <project path="frameworks/rs" name="TeamBAKED/frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="TeamBAKED/frameworks_support" />
   <project path="frameworks/testing" name="TeamBAKED/frameworks_testing" />
   <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" revision="cm-11.0" />
@@ -324,7 +324,7 @@
   <project path="hardware/qcom/media" name="TeamBAKED/hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" revision="cm-11.0" groups="caf" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" revision="cm-11.0" groups="qcom_msm8960" />
-  <project path="hardware/qcom/msm8x74" name="CyanogenMod/android_hardware_qcom_msm8x74" revision="cm-11.0" groups="qcom_msm8x74" />
+  <project path="hardware/qcom/msm8x74" name="TeamBAKED/hardware_qcom_msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" revision="cm-11.0" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" revision="cm-11.0" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" revision="cm-11.0" />
@@ -332,8 +332,8 @@
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" revision="cm-11.0" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" revision="cm-11.0" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" revision="cm-11.0" />
-  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" revision="cm-11.0" />
-  <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" revision="cm-11.0" />
+  <project path="hardware/ti/wlan" name="TeamBAKED/hardware_ti_wlan" />
+  <project path="hardware/ti/wpan" name="TeamBAKED/hardware_ti_wpan" />
   <project path="libcore" name="TeamBAKED/libcore" />
   <project path="libnativehelper" name="TeamBAKED/libnativehelper" groups="pdk-java" />
   <project path="manifest" name="TeamBAKED/manifest" />
@@ -341,7 +341,6 @@
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" revision="cm-11.0" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" revision="cm-11.0" />
   <project path="packages/apps/Bluetooth" name="TeamBAKED/packages_apps_Bluetooth" />
-  <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" revision="cm-11.0" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" revision="cm-11.0" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" revision="cm-11.0" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" revision="cm-11.0" />
@@ -364,7 +363,7 @@
   <project path="packages/apps/Mms" name="TeamBAKED/packages_apps_Mms" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" revision="cm-11.0" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" revision="cm-11.0" />
+  <project path="packages/apps/PackageInstaller" name="TeamBAKED/packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" revision="cm-11.0" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" revision="cm-11.0" />
   <project path="packages/apps/Settings" name="TeamBAKED/packages_apps_Settings" />
