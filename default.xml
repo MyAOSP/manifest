@@ -156,10 +156,10 @@
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/kissfft" name="TeamBAKED/external_kissfft" />
-  <project path="external/koush/ion" name="CyanogenMod/ion" revision="cm-11.0" />
-  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" revision="cm-11.0" />
-  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" revision="cm-11.0" />
-  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" revision="cm-11.0" />
+  <project path="external/koush/AndroidAsync" name="TeamBAKED/external_koush_AndroidAsync" />
+  <project path="external/koush/ion" name="TeamBAKED/external_koush_ion" />
+  <project path="external/koush/Superuser" name="TeamBAKED/external_koush_Superuser" />
+  <project path="external/koush/Widgets" name="TeamBAKED/external_koush_Widgets" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libexif" name="platform/external/libexif" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -173,15 +173,15 @@
   <project path="external/libogg" name="platform/external/libogg" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" revision="cm-11.0" />
+  <project path="external/libphonenumbergoogle" name="TeamBAKED/external_libphonenumbergoogle" />
   <project path="external/libpng" name="platform/external/libpng" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/libppp" name="platform/external/libppp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libselinux" name="TeamBAKED/external_libselinux" />
   <project path="external/libsepol" name="TeamBAKED/external_libsepol" />
   <project path="external/libssh2" name="platform/external/libssh2" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libtar" name="CyanogenMod/android_external_libtar" revision="cm-11.0" />
+  <project path="external/libtar" name="TeamBAKED/external_libtar" />
   <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" revision="cm-11.0" />
+  <project path="external/libusbx" name="TeamBAKED/external_libusbx" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libvorbis" name="platform/external/libvorbis" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libvpx" name="platform/external/libvpx" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
@@ -192,8 +192,8 @@
   <project path="external/littlemock" name="platform/external/littlemock" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/llvm" name="platform/external/llvm" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/lsof" name="CyanogenMod/android_external_lsof" revision="cm-11.0" />
-  <project path="external/lzo" name="CyanogenMod/android_external_lzo" revision="cm-11.0" />
+  <project path="external/lsof" name="TeamBAKED/external_lsof" />
+  <project path="external/lzo" name="TeamBAKED/external_lzo" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/markdown" name="platform/external/markdown" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
@@ -203,7 +203,7 @@
   <project path="external/mockwebserver" name="platform/external/mockwebserver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mp4parser" name="platform/external/mp4parser" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/mtpd" name="platform/external/mtpd" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/nano" name="CyanogenMod/android_external_nano" revision="cm-11.0" />
+  <project path="external/nano" name="TeamBAKED/external_nano" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/netcat" name="platform/external/netcat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/netperf" name="platform/external/netperf" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -211,7 +211,7 @@
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" revision="cm-11.0" />
+  <project path="external/ntfs-3g" name="TeamBAKED/external_ntfs-3g" />
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/okhttp" name="platform/external/okhttp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -303,13 +303,13 @@
   <project path="frameworks/rs" name="TeamBAKED/frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="TeamBAKED/frameworks_support" />
   <project path="frameworks/testing" name="TeamBAKED/frameworks_testing" />
-  <project path="frameworks/volley" name="CyanogenMod/android_frameworks_volley" revision="cm-11.0" />
+  <project path="frameworks/volley" name="TeamBAKED/frameworks_volley" />
   <project path="frameworks/webview" name="TeamBAKED/frameworks_webview" />
-  <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" revision="cm-11.0" />
+  <project path="frameworks/wilhelm" name="TeamBAKED/frameworks_wilhelm" />
   <project path="hardware/akm" name="TeamBAKED/hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="TeamBAKED/hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="TeamBAKED/hardware_broadcom_wlan" groups="broadcom_wlan" />
-  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" revision="cm-11.0" />
+  <project path="hardware/cm" name="TeamBAKED/hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" revision="cm-11.0" groups="invensense" />
   <project path="hardware/libhardware" name="TeamBAKED/hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" revision="cm-11.0" groups="pdk" />
@@ -338,72 +338,70 @@
   <project path="libnativehelper" name="TeamBAKED/libnativehelper" groups="pdk-java" />
   <project path="manifest" name="TeamBAKED/manifest" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" revision="cm-11.0" />
-  <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" revision="cm-11.0" />
+  <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Bluetooth" name="TeamBAKED/packages_apps_Bluetooth" />
-  <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" revision="cm-11.0" />
-  <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" revision="cm-11.0" />
-  <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" revision="cm-11.0" />
-  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" revision="cm-11.0" />
+  <project path="packages/apps/Browser" name="TeamBAKED/packages_apps_Browser" />
+  <project path="packages/apps/Calculator" name="TeamBAKED/packages_apps_Calculator" />
+  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/Camera2" name="TeamBAKED/packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="TeamBAKED/packages_apps_CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" revision="cm-11.0" />
+  <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/CMFileManager" name="TeamBAKED/packages_apps_CMFileManager" />
   <project path="packages/apps/Contacts" name="TeamBAKED/packages_apps_Contacts"  />
   <project path="packages/apps/ContactsCommon" name="TeamBAKED/packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="TeamBAKED/packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" name="TeamBAKED/packages_apps_Dialer" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" revision="cm-11.0" />
-  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" revision="cm-11.0" />
-  <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" revision="cm-11.0" />
-  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" revision="cm-11.0" />
-  <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" revision="cm-11.0" />
+  <project path="packages/apps/DSPManager" name="TeamBAKED/packages_apps_DSPManager" />
+  <project path="packages/apps/Email" name="TeamBAKED/packages_apps_Email" />
+  <project path="packages/apps/Exchange" name="TeamBAKED/packages_apps_Exchange" />
+  <project path="packages/apps/Gallery2" name="TeamBAKED/packages_apps_Gallery2" />
+  <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/InCallUI" name="TeamBAKED/packages_apps_InCallUI" />
-  <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" revision="cm-11.0" />
+  <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/LockClock" name="TeamBAKED/packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="TeamBAKED/packages_apps_Mms" />
-  <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" revision="cm-11.0" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/PackageInstaller" name="TeamBAKED/packages_apps_PackageInstaller" />
-  <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" revision="cm-11.0" />
-  <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" revision="cm-11.0" />
+  <project path="packages/apps/PhoneCommon" name="TeamBAKED/packages_apps_PhoneCommon" revision="cm-11.0" />
+  <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Settings" name="TeamBAKED/packages_apps_Settings" />
-  <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" revision="cm-11.0" />
-  <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" revision="cm-11.0" />
-  <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" revision="cm-11.0" />
+  <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Stk" name="TeamBAKED/packages_apps_Stk" />
-  <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" revision="cm-11.0" />
+  <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/ThemeChooser" name="TeamBAKED/packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="TeamBAKED/packages_apps_Torch" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" revision="cm-11.0" />
-  <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" revision="cm-11.0" />
-  <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" revision="cm-11.0" />
-  <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" revision="cm-11.0" />
-  <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" revision="cm-11.0" />
-  <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" revision="cm-11.0" />
+  <project path="packages/apps/Trebuchet" name="TeamBAKED/packages_apps_Trebuchet" />
+  <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/inputmethods/LatinIME" name="TeamBAKED/packages_inputmethods_LatinIME" />
-  <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" revision="cm-11.0" />
-  <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" revision="cm-11.0" />
+  <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/providers/ApplicationsProvider" name="TeamBAKED/packages_providers_ApplicationsProvider" />
-  <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" revision="cm-11.0" />
+  <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/providers/ContactsProvider" name="TeamBAKED/packages_providers_ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" revision="cm-11.0" />
+  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/providers/MediaProvider" name="TeamBAKED/packages_providers_MediaProvider" />
-  <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" revision="cm-11.0" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/providers/TelephonyProvider" name="TeamBAKED/packages_providers_TelephonyProvider" />
   <project path="packages/providers/ThemesProvider" name="TeamBAKED/packages_providers_ThemesProvider" />
-  <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" revision="cm-11.0" />
-  <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" revision="cm-11.0" />
-  <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" revision="cm-11.0" />
-  <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" revision="cm-11.0" />
-  <project path="packages/services/Telephony" name="TeamBAKED/packages_services_Telephony" />
-  <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" revision="cm-11.0" />
-  <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" revision="cm-11.0" />
-  <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" revision="cm-11.0" />
-  <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" revision="cm-11.0" />
-  <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" revision="cm-11.0" />
-  <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" revision="cm-11.0" />
-  <project path="packages/wallpapers/NoiseField" name="CyanogenMod/android_packages_wallpapers_NoiseField" revision="cm-11.0" />
-  <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" revision="cm-11.0" />
+  <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/services/Telephony" name="TeamBAKED/packages/services/Telephony" />
+  <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="prebuilt" name="TeamBAKED/prebuilt" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
