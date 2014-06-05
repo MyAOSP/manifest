@@ -40,7 +40,7 @@
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="device" />
-  <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="device" />
+  <project path="device/sample" name="TeamBAKED/device_sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -310,9 +310,9 @@
   <project path="hardware/broadcom/libbt" name="TeamBAKED/hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="TeamBAKED/hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" name="TeamBAKED/hardware_cm" />
-  <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" revision="cm-11.0" groups="invensense" />
+  <project path="hardware/invensense" name="TeamBAKED/hardware_invensense"  groups="invensense" />
   <project path="hardware/libhardware" name="TeamBAKED/hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" revision="cm-11.0" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="TeamBAKED/hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" revision="cm-11.0" groups="qcom" />
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" revision="cm-11.0" groups="caf" />
   <project path="hardware/qcom/bt" name="TeamBAKED/hardware_qcom_bt" />
