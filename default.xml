@@ -338,7 +338,7 @@
   <project path="libnativehelper" name="TeamBAKED/libnativehelper" groups="pdk-java" />
   <project path="manifest" name="TeamBAKED/manifest" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/BasicSmsReceiver" name="TeamBAKED/packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="TeamBAKED/packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="TeamBAKED/packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TeamBAKED/packages_apps_Calculator" />
@@ -367,7 +367,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Settings" name="TeamBAKED/packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/SoundRecorder" name="TeamBAKED/packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Stk" name="TeamBAKED/packages_apps_Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
