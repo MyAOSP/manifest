@@ -42,11 +42,11 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="device" />
   <project path="device/sample" name="TeamBAKED/device_sample" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/aac" name="TeamBAKED/external_aac" groups="pdk" />
+  <project path="external/android-clat" name="TeamBAKED/external_android-clat" />
+  <project path="external/android-mock" name="TeamBAKED/external_android-mock" />
   <project path="external/android-visualizer" name="TeamBAKED/external_android-visualizer" />
-  <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/ant-glob" name="TeamBAKED/external_ant-glob" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -54,8 +54,8 @@
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/bash" name="TeamBAKED/external_bash" />
-  <project path="external/bison" name="platform/external/bison" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="external/bison" name="TeamBAKED/external_bison" />
+  <project path="external/blktrace" name="TeamBAKED/external_blktrace" />
   <project path="external/bluetooth/bluedroid" name="TeamBAKED/external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" name="TeamBAKED/external_bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
@@ -167,9 +167,9 @@
   <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libncurses" name="TeamBAKED/external_libncurses" />
-  <project path="external/libnfc-nci" name="platform/external/libnfc-nci" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
-  <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/libnfc-nci" name="TeamBAKED/external_libnfc-nci" />
+  <project path="external/libnfc-nxp" name="TeamBAKED/external_libnfc-nxp" groups="pdk" />
+  <project path="external/libnl-headers" name="TeamBAKED/external_libnl-headers" groups="pdk" />
   <project path="external/libogg" name="platform/external/libogg" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
@@ -219,7 +219,7 @@
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/openfst" name="platform/external/openfst" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/openssh" name="platform/external/openssh" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
-  <project path="external/openssl" name="platform/external/openssl" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" groups="pdk" />
+  <project path="external/openssl" name="TeamBAKED/external_openssl" groups="pdk" />
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="external/pciutils" name="TeamBAKED/external_pciutils" />
   <project path="external/pigz" name="TeamBAKED/external_pigz" />
@@ -361,7 +361,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/LockClock" name="TeamBAKED/packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="TeamBAKED/packages_apps_Mms" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
+  <project path="packages/apps/Nfc" name="TeamBAKED/packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/PackageInstaller" name="TeamBAKED/packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="TeamBAKED/packages_apps_PhoneCommon" />
