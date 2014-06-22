@@ -297,7 +297,6 @@
   <project path="frameworks/opt/photoviewer" name="TeamBAKED/frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="TeamBAKED/frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/telephony" name="TeamBAKED/frameworks_opt_telephony" groups="pdk" />
-  <project path="frameworks/opt/telephony-msim" name="TeamBAKED/frameworks_opt_telephony-msim" />
   <project path="frameworks/opt/vcard" name="TeamBAKED/frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="frameworks/rs" name="TeamBAKED/frameworks_rs" groups="pdk" />
@@ -343,7 +342,7 @@
   <project path="packages/apps/BluetoothExt" name="TeamBAKED/packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="TeamBAKED/packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TeamBAKED/packages_apps_Calculator" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+  <project path="packages/apps/Calendar" name="TeamBAKED/packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="TeamBAKED/packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="TeamBAKED/packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
