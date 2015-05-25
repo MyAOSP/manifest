@@ -1,0 +1,5 @@
+<h1>MyAOSP</h1>
+<h2>Android 5.1.1 lollipop</h2>
+
+<pre><code>repo init -u https://github.com/MyAOSP/manifest.git -b android-5.1</code></pre>
+<pre><code>repo sync</code></pre>
